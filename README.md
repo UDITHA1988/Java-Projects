@@ -1,6 +1,6 @@
 # Java-Projects
 
-Here, the repository includes three java projects built by myself. One is an implimentatation of breadth first search algorithm, another a gui built using java swing package, and a simple game.
+Here, the repository includes three java projects built by myself. One is an implimentatation of breadth first search algorithm, another a gui built using java swing package, and a simple game where a human player can play with the computer.
 
 1.PATH FINDER
 Uses breadth first search algorithm to find the shortest path through a maze. The starting point and the ending points can be changed. In the program, it uses two parrelal queues to store row numberand column number. And finally prints the shortest path.
